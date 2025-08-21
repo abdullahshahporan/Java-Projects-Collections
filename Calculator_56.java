@@ -5,7 +5,7 @@ public class Calculator_56 {
     }
 
     // Subtract method
-    public double subtract(double a, double b) {
+    public double subtract(int a, int b) {
         return a - b;
     }
 
