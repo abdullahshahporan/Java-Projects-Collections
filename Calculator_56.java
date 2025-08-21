@@ -1,6 +1,6 @@
 public class Calculator_56 {
     // Add method
-    public float add(double a, double b) {
+    public float add(float a, float b) {
         return a + b;
     }
 
@@ -10,7 +10,7 @@ public class Calculator_56 {
     }
 
     // Multiply method
-    public float multiply(double a, double b) {
+    public float multiply(float a, float b) {
         return a * b;
     }
 
